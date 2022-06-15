@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rorocio
-- 👀 I’m interested in learning
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning css3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on a project
+- 📫 How to reach me: por paloma mensajera
 
 <!---
 rorocio/rorocio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
